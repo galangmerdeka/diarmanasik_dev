@@ -43,6 +43,6 @@ var $js;
 		$data['_section4']=$this->load->view('main/section4',$data, true);
 		$data['_section5']=$this->load->view('main/section5',$data, true);
 		$data['_foot']=$this->load->view('main/foot',$data, true);
-		$this->load->view('main/index',$data);
+		$this->load->view('main/index', $data);
 	}
 }
