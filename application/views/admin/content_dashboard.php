@@ -41,15 +41,16 @@
               <span class="count_bottom"><i class="green"><i class="fa fa-sort-asc"></i>34% </i> From last Week</span>
             </div>
           </div>
-          <!-- /top tiles -->
+          <!-- top tiles -->
 
+          <!-- Agency List -->
           <div class="row">
             <div class="col-md-12 col-sm-12 col-xs-12">
               <div class="dashboard_graph">
 
                 <div class="row x_title">
                   <div class="col-md-6">
-                    <h3>Network Activities <small>Graph title sub-title</small></h3>
+                    <h3>List Agency<small></small></h3>
                   </div>
                   <div class="col-md-6">
                     <div id="reportrange" class="pull-right" style="background: #fff; cursor: pointer; padding: 5px 10px; border: 1px solid #ccc">
@@ -59,12 +60,100 @@
                   </div>
                 </div>
 
+                <!-- <div class="container">
+                  
+                  <table class="table table-bordered">
+                    <thead>
+                      <tr class="info">
+                        <th>Company Name</th>
+                        <th>Address</th>
+                        <th>Type</th>
+                        <th>Join Date</th>
+                        <th>Region</th>
+                      </tr>
+                    </thead>
+                    <tbody>
+                      <tr>
+                        <td>PT Tour Haji</td>
+                        <td>Jl. Sekelimus No 16</td>
+                        <td>Travel Agent</td>
+                        <td><?php echo date('d-m-Y'); ?></td>
+                        <td>Indonesia</td>
+                      </tr>
+                      <tr>
+                        <td>PT Tour Haji</td>
+                        <td>Jl. Sekelimus No 16</td>
+                        <td>Travel Agent</td>
+                        <td><?php echo date('d-m-Y'); ?></td>
+                        <td>Indonesia</td>
+                      </tr>
+                      <tr>
+                        <td>PT Tour Haji</td>
+                        <td>Jl. Sekelimus No 16</td>
+                        <td>Travel Agent</td>
+                        <td><?php echo date('d-m-Y'); ?></td>
+                        <td>Indonesia</td>
+                      </tr>
+                      <tr>
+                        <td>PT Tour Haji</td>
+                        <td>Jl. Sekelimus No 16</td>
+                        <td>Travel Agent</td>
+                        <td><?php echo date('d-m-Y'); ?></td>
+                        <td>Indonesia</td>
+                      </tr>
+                      <tr>
+                        <td>PT Tour Haji</td>
+                        <td>Jl. Sekelimus No 16</td>
+                        <td>Travel Agent</td>
+                        <td><?php echo date('d-m-Y'); ?></td>
+                        <td>Indonesia</td>
+                      </tr>
+                      <tr>
+                        <td>PT Tour Haji</td>
+                        <td>Jl. Sekelimus No 16</td>
+                        <td>Travel Agent</td>
+                        <td><?php echo date('d-m-Y'); ?></td>
+                        <td>Indonesia</td>
+                      </tr>
+                      <tr>
+                        <td>PT Tour Haji</td>
+                        <td>Jl. Sekelimus No 16</td>
+                        <td>Travel Agent</td>
+                        <td><?php echo date('d-m-Y'); ?></td>
+                        <td>Indonesia</td>
+                      </tr>
+                      <tr>
+                        <td>PT Tour Haji</td>
+                        <td>Jl. Sekelimus No 16</td>
+                        <td>Travel Agent</td>
+                        <td><?php echo date('d-m-Y'); ?></td>
+                        <td>Indonesia</td>
+                      </tr>
+                      <tr>
+                        <td>PT Tour Haji</td>
+                        <td>Jl. Sekelimus No 16</td>
+                        <td>Travel Agent</td>
+                        <td><?php echo date('d-m-Y'); ?></td>
+                        <td>Indonesia</td>
+                      </tr>
+                      <tr>
+                        <td>PT Tour Haji</td>
+                        <td>Jl. Sekelimus No 16</td>
+                        <td>Travel Agent</td>
+                        <td><?php echo date('d-m-Y'); ?></td>
+                        <td>Indonesia</td>
+                      </tr>
+                    </tbody>
+                  </table>
+                </div> -->
+
                 <div class="col-md-9 col-sm-9 col-xs-12">
                   <div id="placeholder33" style="height: 260px; display: none" class="demo-placeholder"></div>
                   <div style="width: 100%;">
                     <div id="canvas_dahs" class="demo-placeholder" style="width: 100%; height:270px;"></div>
                   </div>
                 </div>
+
                 <div class="col-md-3 col-sm-3 col-xs-12 bg-white">
                   <div class="x_title">
                     <h2>Top Campaign Performance</h2>
@@ -109,7 +198,6 @@
                   </div>
 
                 </div>
-
                 <div class="clearfix"></div>
               </div>
             </div>
@@ -365,7 +453,7 @@
           </div>
 
 
-          <div class="row">
+         <!--  <div class="row">
             <div class="col-md-4 col-sm-4 col-xs-12">
               <div class="x_panel">
                 <div class="x_title">
@@ -518,11 +606,11 @@
                 </div>
 
               </div>
-              <div class="row">
+              <div class="row"> -->
 
 
                 <!-- Start to do list -->
-                <div class="col-md-6 col-sm-6 col-xs-12">
+                <!-- <div class="col-md-6 col-sm-6 col-xs-12">
                   <div class="x_panel">
                     <div class="x_title">
                       <h2>To Do List <small>Sample tasks</small></h2>
@@ -587,11 +675,11 @@
                       </div>
                     </div>
                   </div>
-                </div>
+                </div> -->
                 <!-- End to do list -->
                 
                 <!-- start of weather widget -->
-                <div class="col-md-6 col-sm-6 col-xs-12">
+               <!--  <div class="col-md-6 col-sm-6 col-xs-12">
                   <div class="x_panel">
                     <div class="x_title">
                       <h2>Daily active users <small>Sessions</small></h2>
@@ -695,7 +783,7 @@
                     </div>
                   </div>
 
-                </div>
+                </div> -->
                 <!-- end of weather widget -->
               </div>
             </div>
