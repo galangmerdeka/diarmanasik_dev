@@ -28,12 +28,12 @@
                   </li>
                   <li><a><i class="fa fa-hotel"></i> Hotel <span class="fa fa-chevron-down"></span></a>
                     <ul class="nav child_menu">
-                      <li><a href="<?= site_url()?>/admin/">Hotel Partner</a></li>
+                      <li><a href="<?= site_url()?>/admin/hotel_partner_page">Hotel Partner</a></li>
                     </ul>
                   </li>
                   <li><a><i class="fa fa-plane"></i> Airline <span class="fa fa-chevron-down"></span></a>
                     <ul class="nav child_menu">
-                      <li><a href="<?= site_url()?>/admin/">Airline Partners</a></li>
+                      <li><a href="<?= site_url()?>/admin/airline_partner_page">Airline Partners</a></li>
                     </ul>
                   </li>
                   <li><a><i class="fa fa-edit"></i> LA <span class="fa fa-chevron-down"></span></a>
