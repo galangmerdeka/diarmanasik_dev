@@ -1,12 +1,5 @@
-<?php
-/*
- * File Name    :index.php
- * Folder Name  :Admin
- * Author       :Imaduddin Haris Nasution|Digital Art Developer
- */
-?>
-<?= $head?>
-   <div class="container body">
+<?=$head ?>
+  <div class="container body">
       <div class="main_container">
         <div class="col-md-3 left_col">
           <div class="left_col scroll-view">
@@ -44,8 +37,7 @@
         <?= $footer_content?>
         <!-- /footer content -->
       </div>
-    </div>
-
+  </div>
     <!-- jQuery -->
     <script src="<?= $assets.'vendors/jquery/dist/jquery.min.js';?>"></script>
     <!-- Bootstrap -->
