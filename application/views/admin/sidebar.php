@@ -28,7 +28,11 @@
                   </li>
                   <li><a><i class="fa fa-hotel"></i> Hotel <span class="fa fa-chevron-down"></span></a>
                     <ul class="nav child_menu">
+<<<<<<< HEAD
                       <li><a href="<?= site_url()?>/admin/hotel_partner_page">Hotel Partner</a></li>
+=======
+                      <li><a href="<?= site_url()?>/admin/">Hotel Partner</a></li>
+>>>>>>> 6a9331b82c68ddb7030e3330087327a37b9c2237
                     </ul>
                   </li>
                   <li><a><i class="fa fa-plane"></i> Airline <span class="fa fa-chevron-down"></span></a>

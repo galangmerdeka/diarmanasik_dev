@@ -118,6 +118,7 @@ var $js;
 
         $this->load->view('admin/agency_request_page',$data);
 	}
+<<<<<<< HEAD
 
 	public function hotel_partner_page()
 	{
@@ -172,5 +173,7 @@ var $js;
 
         $this->load->view('admin/add_hotel_page',$data);
 	}
+=======
+>>>>>>> 6a9331b82c68ddb7030e3330087327a37b9c2237
         
 }
