@@ -24,7 +24,7 @@
                       <div class="dropdown">
                         <button class="btn btn-primary" type="button" >
                           <!-- <span class="glyphicon glyphicon-plus"></span> -->
-                          <a href="<?= site_url()?>/admin/add_partner_form"><p style="color:white">Add Partner</p></a>
+                          <a href="<?= site_url()?>/admin/add_airline_page"><p style="color:white">Add Partner</p></a>
                         </button>
                       </div>
                     </div>
