@@ -30,6 +30,12 @@
                     <ul class="nav child_menu">
 
                       <li><a href="<?= site_url()?>/admin/hotel_partner_page">Hotel Partner</a></li>
+<<<<<<< HEAD
+
+                      <li><a href="<?= site_url()?>/admin/">Hotel Partner</a></li>
+
+=======
+>>>>>>> master
                     </ul>
                   </li>
                   <li><a><i class="fa fa-plane"></i> Airline <span class="fa fa-chevron-down"></span></a>
