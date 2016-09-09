@@ -17,7 +17,7 @@
 
                 <div class="row x_title">
                   <div class="col-md-6">
-                    <h3>Hotel Partner<small></small></h3> <br/>
+                    <h3>Airline Partner<small></small></h3> <br/>
                   </div>
                   <!-- <div class="container">
                     <div class="col-md-10">
